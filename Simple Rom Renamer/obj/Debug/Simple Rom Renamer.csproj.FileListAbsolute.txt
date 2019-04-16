@@ -1,1 +1,19 @@
 C:\Users\Андрей\Documents\GitHub\Simple Rom Renamer\Simple Rom Renamer\bin\Debug\Simple Rom Renamer.exe.config
+C:\Git\Simple-Rom-Renamer\Simple Rom Renamer\bin\Debug\Simple Rom Renamer.exe.config
+C:\Git\Simple-Rom-Renamer\Simple Rom Renamer\bin\Debug\Simple Rom Renamer.exe
+C:\Git\Simple-Rom-Renamer\Simple Rom Renamer\bin\Debug\Simple Rom Renamer.pdb
+C:\Git\Simple-Rom-Renamer\Simple Rom Renamer\obj\Debug\Simple Rom Renamer.csprojResolveAssemblyReference.cache
+C:\Git\Simple-Rom-Renamer\Simple Rom Renamer\obj\Debug\Simple_Rom_Renamer.Properties.Resources.resources
+C:\Git\Simple-Rom-Renamer\Simple Rom Renamer\obj\Debug\Simple Rom Renamer.csproj.GenerateResource.Cache
+C:\Git\Simple-Rom-Renamer\Simple Rom Renamer\obj\Debug\Simple Rom Renamer.exe
+C:\Git\Simple-Rom-Renamer\Simple Rom Renamer\obj\Debug\Simple Rom Renamer.pdb
+C:\Git\Simple-Rom-Renamer\Simple Rom Renamer\obj\Debug\Simple_Rom_Renamer.Form1.resources
+K:\Git\Simple-Rom-Renamer\Simple Rom Renamer\bin\Debug\Simple Rom Renamer.exe.config
+K:\Git\Simple-Rom-Renamer\Simple Rom Renamer\bin\Debug\Simple Rom Renamer.exe
+K:\Git\Simple-Rom-Renamer\Simple Rom Renamer\bin\Debug\Simple Rom Renamer.pdb
+K:\Git\Simple-Rom-Renamer\Simple Rom Renamer\obj\Debug\Simple Rom Renamer.csprojResolveAssemblyReference.cache
+K:\Git\Simple-Rom-Renamer\Simple Rom Renamer\obj\Debug\Simple_Rom_Renamer.Form1.resources
+K:\Git\Simple-Rom-Renamer\Simple Rom Renamer\obj\Debug\Simple_Rom_Renamer.Properties.Resources.resources
+K:\Git\Simple-Rom-Renamer\Simple Rom Renamer\obj\Debug\Simple Rom Renamer.csproj.GenerateResource.Cache
+K:\Git\Simple-Rom-Renamer\Simple Rom Renamer\obj\Debug\Simple Rom Renamer.exe
+K:\Git\Simple-Rom-Renamer\Simple Rom Renamer\obj\Debug\Simple Rom Renamer.pdb

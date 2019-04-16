@@ -1,0 +1,118 @@
+<datafile>
+  <game name="3DO Game Guru (USA)">
+    <rom name="3DO Game Guru (USA).cue" size="108" crc="cfb58755" md5="a514ccfb2666ada924c6729dd952064a" sha1="d962584889e9efa09df88fc1380cf5c365c1739d" />
+    <rom name="3DO Game Guru (USA).bin" size="362325600" crc="4dd05faa" md5="782fcff91ae557500bb084306b06b48c" sha1="ecec11a0cc250d5256a4593245fe5faa9d626e8a" />
+  </game>
+  <game name="3DO Interactive Sampler CD 2, The (USA)">
+    <rom name="3DO Interactive Sampler CD 2, The (USA).bin" size="765740640" crc="4146a916" md5="7d557f31fd1a09fbe0ed40c35927b959" sha1="9b5274f994786b519b44dc25693310b4e5d4ad0e" />
+    <rom name="3DO Interactive Sampler CD 2, The (USA).cue" size="128" crc="5fe47033" md5="467409cc366c5acde443973e6acb4ce5" sha1="85d4775953d8d7ba73b73c49c7c6bf82485147ce" />
+  </game>
+  <game name="3DO Interactive Sampler CD 3, The (USA)">
+    <rom name="3DO Interactive Sampler CD 3, The (USA).bin" size="723592800" crc="6a4468ff" md5="868b4a50bfa4f0d2419b820383f4f259" sha1="992186d48bd82660734ee09d4ed6df755781a69c" />
+    <rom name="3DO Interactive Sampler CD 3, The (USA).cue" size="128" crc="f1ef23a7" md5="a33da3e2db75ba1b9eb635edc08d6431" sha1="4fa2eb955b9e64669188437e757976420faa8d40" />
+  </game>
+  <game name="3DO Interactive Sampler CD 4, The (USA)">
+    <rom name="3DO Interactive Sampler CD 4, The (USA).bin" size="723244704" crc="7bb05169" md5="1ff56bce6cdb5ffe334f58c4a17cf150" sha1="7674b6a4f8ff3361850296167bc1b862ac5adf74" />
+    <rom name="3DO Interactive Sampler CD 4, The (USA).cue" size="128" crc="0d3d95c9" md5="36d8ab595eb7e76dcfdeb5b3ed3b6d75" sha1="4188a00a3b9eabb0ebec6f8c57980545f415dd5e" />
+  </game>
+  <game name="3DO Interactive Sampler CD, The (USA)">
+    <rom name="3DO Interactive Sampler CD, The (USA).bin" size="536938080" crc="b10d9f99" md5="334804d5373cee8ee0801dc768f00cbd" sha1="1a46ac1804a2e60143742c859ef288f954f8ae8c" />
+    <rom name="3DO Interactive Sampler CD, The (USA).cue" size="126" crc="328bd9ac" md5="291cd99d03adc18fa9573e65d3eaa7a9" sha1="a5e9d1d8871c77a3933880bdac970b930d4aa537" />
+  </game>
+  <game name="3DO Interactive Sampler, The (Europe)">
+    <rom name="3DO Interactive Sampler, The (Europe).bin" size="536585280" crc="77f35e5f" md5="96dda7eba3d994d5d770ce73515d87b8" sha1="525f890af602c1ad24a4e5e874f4bb9f8fff93a6" />
+    <rom name="3DO Interactive Sampler, The (Europe).cue" size="126" crc="0aab5d57" md5="20967d435f18689c5d9400c9d8bc9eac" sha1="0692a3228ab5a12260fffe2e1a90734aa417c8f4" />
+  </game>
+  <game name="AI Shougi (Japan)">
+    <rom name="AI Shougi (Japan).bin" size="30811200" crc="7284d1ca" md5="749d3c61d1451bc411d32566d052903d" sha1="bb069b3064ebe0c38f49fb006a45fdfaba358e0d" />
+    <rom name="AI Shougi (Japan).cue" size="106" crc="aabd828d" md5="6867aee68c7d47439f6af33333eabc97" sha1="3939e8860c410fe485159f5733e961f0fea1bbf4" />
+  </game>
+  <game name="Alone in the Dark (Europe) (En,Fr)">
+    <rom name="Alone in the Dark (Europe) (En,Fr).bin" size="453491472" crc="ff4cd46e" md5="0999360e91c941469c7fceb8b20c6df5" sha1="73cea9107bc43cb8de210af2119a7ee395f6ab9f" />
+    <rom name="Alone in the Dark (Europe) (En,Fr).cue" size="123" crc="dfb4d091" md5="1e21ad420ec3d42120eb1d34fd75de18" sha1="a205744e37f437d49ff94113002ea3de006b131a" />
+  </game>
+  <game name="Alone in the Dark (Japan)">
+    <rom name="Alone in the Dark (Japan).bin" size="429409344" crc="ee9c1947" md5="49564f60b021fbd59f95f39acf6cbd8d" sha1="74850abd09561142b784e637fef02fc4d1e12b85" />
+    <rom name="Alone in the Dark (Japan).cue" size="137" crc="252c04a6" md5="a8ce15707696cd300c26618a676011c1" sha1="baab452b99efc919326b24fa32977d94da539e2b" />
+  </game>
+  <game name="Alone in the Dark (USA)">
+    <rom name="Alone in the Dark (USA).bin" size="422184000" crc="2c03e3af" md5="192de93ff970cc04caa49d4a723a390f" sha1="d643c74677b283ec01431c6457d21f888747c77b" />
+    <rom name="Alone in the Dark (USA).cue" size="112" crc="f0cc6002" md5="f049e609a84075e17edb3c3d671f21cd" sha1="71fe34a6f5c2a6e20d98f479c34fc99268a20bf9" />
+  </game>
+  <game name="Alone in the Dark 2 (Japan)">
+    <rom name="Alone in the Dark 2 (Japan).bin" size="674722944" crc="75806561" md5="f34469326d74dfc427137269de7b58fe" sha1="889ff1aa271870df43c8ff7021abc86f1179ebb0" />
+    <rom name="Alone in the Dark 2 (Japan).cue" size="116" crc="92bebf10" md5="8b41259105f06e62feac6944665a37ba" sha1="23e20edd48542e07240a5d577a2e09fac8e5c19e" />
+  </game>
+  <game name="Alone in the Dark 2 (USA)">
+    <rom name="Alone in the Dark 2 (USA).bin" size="674906400" crc="c4351a5e" md5="0cbb06c9daa8239837624111c8ae1132" sha1="feef790130d05ca5446be4550e4f8799e5f983aa" />
+    <rom name="Alone in the Dark 2 (USA).cue" size="114" crc="fb1fe530" md5="46902a501402ca94fb5cb7158dcbb138" sha1="ee6867e30372f07be18d8e01bb561691f4127d48" />
+  </game>
+  <game name="AutoBahn Tokio (Japan) (Demo)">
+    <rom name="AutoBahn Tokio (Japan) (Demo).bin" size="54895680" crc="50885b80" md5="ada554a9a5a559450b687c7964d3321f" sha1="a68463877ba311561dfd359b8cc44bc88305db76" />
+    <rom name="AutoBahn Tokio (Japan) (Demo).cue" size="118" crc="5062bf89" md5="c68786cf84b55c68581f25c7cb7f5b0d" sha1="7af923b51e47e75442e38e490ba593992645ed13" />
+  </game>
+  <game name="AutoBahn Tokio (Japan)">
+    <rom name="AutoBahn Tokio (Japan).bin" size="145212480" crc="63027c6e" md5="62cc170684dfb1b79635829fe74e7786" sha1="e48581ec4501b93d684a423df32f9530040fdcf8" />
+    <rom name="AutoBahn Tokio (Japan).cue" size="111" crc="55922825" md5="ce8677d017849ab6cf68560a93b61310" sha1="87116df4aa13b5447b725c2908d9a76863f7cd53" />
+  </game>
+  <game name="Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan)">
+    <rom name="Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan).bin" size="753345600" crc="cef4b1d7" md5="9b3d127c077d412f59a6d7aa9f286b6b" sha1="064b96feb81556ed7e16cccbee4074b4707e792f" />
+    <rom name="Bakushou!! All Yoshimoto Quiz-ou Kettei-sen (Japan).cue" size="140" crc="bb779d20" md5="851fb9b849edead22657b8b75cd5a97d" sha1="fdbb3b97d24593b986d891595da83d98c5171782" />
+  </game>
+  <game name="Ballz - The Director's Cut (Japan, USA) (En,Ja)">
+    <rom name="Ballz - The Director's Cut (Japan, USA) (En,Ja).bin" size="361972800" crc="02bf47f5" md5="6fd4db5ab01fc7972d5c0ef52880e672" sha1="daff1378200564794ca6561abfe66056f2709698" />
+    <rom name="Ballz - The Director's Cut (Japan, USA) (En,Ja).cue" size="136" crc="a4749d93" md5="5cce1a077aea0ca01f46f762beeeefee" sha1="f361720a08978713438cd5bafd25b4b6e6421f72" />
+  </game>
+  <game name="Battle Chess (Japan)">
+    <rom name="Battle Chess (Japan).bin" size="325497984" crc="b1aa64e2" md5="ab374cedbdcdde177e3c4edd45916aa7" sha1="9885c42139e09fc2a7a5932d86cd1a90002f6f30" />
+    <rom name="Battle Chess (Japan).cue" size="86" crc="4ba56d74" md5="e33496ff7a477616758712a8201d38db" sha1="ca4f5e01bc2b380e14d46f720c960b7e0e3c2834" />
+  </game>
+  <game name="Battle Chess (USA)">
+    <rom name="Battle Chess (USA).bin" size="313455744" crc="bd83962a" md5="f6ab794a70e89c52070bcff375f56603" sha1="409a7c1fc6fec813dfd5c80158bcc718d8b8a9bc" />
+    <rom name="Battle Chess (USA).cue" size="107" crc="29138d99" md5="577eec6b013cb43c23a7a81a17eced3b" sha1="afc0dfaab7b2084eb8055c4033b4c0bedd63ef4f" />
+  </game>
+  <game name="Battle Pinball (Japan)">
+    <rom name="Battle Pinball (Japan).bin" size="169296960" crc="7e80c425" md5="80991ac0b76476b392df46d5407c0e26" sha1="f233218ceb7f960ea6f9d10fdd8b6be97b95c86d" />
+    <rom name="Battle Pinball (Japan).cue" size="134" crc="9b0b0b81" md5="a07d20deb000199980ad83c24e505fdb" sha1="7ba655276c9565dd1dc9aa720b582d4292b0b06a" />
+  </game>
+  <game name="BattleSport (Europe)">
+    <rom name="BattleSport (Europe).bin" size="506482032" crc="8731b3f1" md5="dd89c2e5237fb98e4cd9d1eac7812e62" sha1="1bb73e3e8b092ce6a4a59128f0608bd516bf7436" />
+    <rom name="BattleSport (Europe).cue" size="109" crc="65eb275f" md5="8f3587d6cd4729056ad5ff5d8e01d4a9" sha1="ee626980b47617b68c2f7c2edb75e727151c67c3" />
+  </game>
+  <game name="BattleSport (USA)">
+    <rom name="BattleSport (USA).bin" size="506832480" crc="7f859040" md5="8391a919bed3aad969f77c0fc7a86a7a" sha1="377ce73e71b1cced842f777ea00b37be5696193e" />
+    <rom name="BattleSport (USA).cue" size="106" crc="13ae5974" md5="6e4ed2f7b20ebd262dfa6f2b46e164d6" sha1="d33e52db2c1bcdba87584087c2246fe3537353c0" />
+  </game>
+  <game name="BC Racers (USA)">
+    <rom name="BC Racers (USA).bin" size="376776288" crc="1bd862ef" md5="ccf17b45d0c9fa6e37f9eca73b6b9ef8" sha1="9b0d708ada37a514003060155afbfe15b61905d6" />
+    <rom name="BC Racers (USA).cue" size="104" crc="12594866" md5="4a08233cc38016b97b561a2476edcf4e" sha1="73e01065180afa2d1b2375ac389a8672d83acbd1" />
+  </game>
+  <game name="Belzerion (Japan)">
+    <rom name="Belzerion (Japan).bin" size="602817600" crc="89f29880" md5="ec792777dd212200533ead9db528fdf1" sha1="c0779fa4ba435e7a54e97293e391df3a827bf955" />
+    <rom name="Belzerion (Japan).cue" size="129" crc="de4b388f" md5="a4464875f87b036115f3e67f21a5f125" sha1="6d982b137b8990ee985c3fc8c407f3dfa65cd2df" />
+  </game>
+  <game name="BFS - Blue Forest Story (Japan)">
+    <rom name="BFS - Blue Forest Story (Japan).bin" size="386057280" crc="d4a491a4" md5="6eae65a8b0c64e2a9672dd5ab8f6981f" sha1="13824c911bcb6985e6b1726f9b94439b5674adee" />
+    <rom name="BFS - Blue Forest Story (Japan).cue" size="120" crc="625a6ca8" md5="8483343e6da3d09f579cc2292f31f669" sha1="fc62847cbb09cd3fbc3635df0559d49ebe9ac0ab" />
+  </game>
+  <game name="Blade Force (Europe)">
+    <rom name="Blade Force (Europe).bin" size="361972800" crc="278b62c5" md5="9b74d40798cf6e3c552ca175ff823e54" sha1="0247c98b74c49b447a423bd7b7253a960c8548b4" />
+    <rom name="Blade Force (Europe).cue" size="109" crc="4f83ddad" md5="f65540d70b6f9f17529f8bf1ea928e2e" sha1="eee2675fc5f0c8505b96973aa911cf817b427170" />
+  </game>
+  <game name="Blade Force (Japan)">
+    <rom name="Blade Force (Japan).bin" size="458310720" crc="8fd3bdc6" md5="7ea3ce71398db4d19279094d586914b6" sha1="7cf5cea67739d422222f7b61a6e996966ac3b9e6" />
+    <rom name="Blade Force (Japan).cue" size="108" crc="5889414b" md5="1931d421f9c6e15165c3a4e78bd70e96" sha1="007c23cfc42c7024244be222d2d4ec1e1da98529" />
+  </game>
+  <game name="Blade Force (USA)">
+    <rom name="Blade Force (USA).bin" size="362325600" crc="283420be" md5="1b228c656c235be9fe4b1d4409870c3c" sha1="a2d85cf80afef24a53cd8e9f04d9d6ff85bae5ce" />
+    <rom name="Blade Force (USA).cue" size="106" crc="d7cf47c5" md5="091eb61ed69bdbcb8f998fe2943bb9d4" sha1="3a6ef6c9524f0893fcd15a6fa2289d037ced131e" />
+  </game>
+  <game name="BrainDead 13 (USA) (Disc 1)">
+    <rom name="BrainDead 13 (USA) (Disc 1).bin" size="771413664" crc="939a863c" md5="575dd343076bca267b1dc3f3ed2d76f1" sha1="6e7c6a74c574941ae471500f7f1c70a47517f53a" />
+    <rom name="BrainDead 13 (USA) (Disc 1).cue" size="116" crc="00ed92f9" md5="cdfef9f9b82818b469f5f81cb4d9595a" sha1="a22cb6539be594745d3f6cedb2ad7e3a08edf6b5" />
+  </game>
+  <game name="BrainDead 13 (USA) (Disc 2)">
+    <rom name="BrainDead 13 (USA) (Disc 2).bin" size="506832480" crc="747f1ca8" md5="204d700defbc5f65cc078ac89d1a6794" sha1="981dbcc139e7cc275c213cd027797fb9a15fcad4" />
+    <rom name="BrainDead 13 (USA) (Disc 2).cue" size="116" crc="7916c8a4" md5="313226f3dc6e0a0e7cae97714dc00823" sha1="6404c805029c587d24c7593c8f850822866ac01f" />
+  </game>
+</datafile>
