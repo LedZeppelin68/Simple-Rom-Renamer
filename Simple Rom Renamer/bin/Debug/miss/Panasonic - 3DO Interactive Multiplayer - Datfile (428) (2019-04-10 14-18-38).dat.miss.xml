@@ -203,12 +203,6 @@
     <rom name="MegaRace (Japan).cue" size="82" crc="732e0d13" md5="d99e585b1eff5aff0295a28dc07d6c22" sha1="c7edc8cb735445f064a680a7d61f980731d07f2f" />
     <rom name="MegaRace (Japan).bin" size="771060864" crc="4b887a55" md5="79558e4f4841fa95dfc4b30832fe09e2" sha1="3cd05d192548a72cb191b2b5e7469980efbbd63f" />
   </game>
-  <game name="Crash 'n Burn (Japan)">
-    <category>Games</category>
-    <description>Crash 'n Burn (Japan)</description>
-    <rom name="Crash 'n Burn (Japan).cue" size="110" crc="4d63fd98" md5="a69e573e5a6149ec67c609b5c342e9e9" sha1="c99b0c015b51a713d564599dcb0df01c79a7f6cc" />
-    <rom name="Crash 'n Burn (Japan).bin" size="723240000" crc="331a3313" md5="088b32295489444bdfec469e4f074a71" sha1="8a835b66c270efb66f6eddc3c50acb200b24e795" />
-  </game>
   <game name="Star Wars - Rebel Assault (Japan)">
     <category>Games</category>
     <description>Star Wars - Rebel Assault (Japan)</description>
@@ -262,12 +256,6 @@
     <description>Total Eclipse (Korea)</description>
     <rom name="Total Eclipse (Korea).cue" size="87" crc="c7dcbc87" md5="5c82108825e9a9d4e7893be64b9e522a" sha1="df77b34ca07af5af1238b5e785b33290b9d00dc0" />
     <rom name="Total Eclipse (Korea).bin" size="422536800" crc="128c49b0" md5="c830c1cfd188be9bc7d5decff3921985" sha1="5635ac67bd20dc50876203cc7ff3fa5b286069f9" />
-  </game>
-  <game name="Captain Quazar (USA)">
-    <category>Games</category>
-    <description>Captain Quazar (USA)</description>
-    <rom name="Captain Quazar (USA).cue" size="109" crc="32bbf8c2" md5="73cdeb4766e244152cf6de79f211a43f" sha1="164aab8e370b814494f9ad7f3232b88130830500" />
-    <rom name="Captain Quazar (USA).bin" size="776870304" crc="6d632812" md5="1c305cad878ab049d632f734bab833f3" sha1="9c2a3c94a205fa0e24c1a5446bac0e7048ff7aff" />
   </game>
   <game name="Myst (Japan)">
     <category>Games</category>
@@ -557,12 +545,6 @@
     <rom name="PaTaank (USA, Europe).cue" size="110" crc="d145aa83" md5="46ae425e7f2bf42a7fb2ad7a1abadfc8" sha1="25f13b70afe240abba33696bce57396da6dac5ca" />
     <rom name="PaTaank (USA, Europe).bin" size="590775360" crc="6a59e62f" md5="14052debdfca73589c2f4021563912eb" sha1="72099d1e98b97c899fefc4219d4d456338dacc58" />
   </game>
-  <game name="Corpse Killer (USA)">
-    <category>Games</category>
-    <description>Corpse Killer (USA)</description>
-    <rom name="Corpse Killer (USA).cue" size="108" crc="f97a9cce" md5="68da62809562a7a8822bce59b12045f4" sha1="7349663974ac03afb0df30981862a14482a3d1be" />
-    <rom name="Corpse Killer (USA).bin" size="753350304" crc="e535d9d5" md5="cd0f44e19e28930a8144c6b514f24dc6" sha1="0d544ca6aa60e6d8f8135fe0fc2204f6ad03d7be" />
-  </game>
   <game name="Super Street Fighter II Turbo (USA) (RE1)">
     <category>Games</category>
     <description>Super Street Fighter II Turbo (USA) (RE1)</description>
@@ -629,12 +611,6 @@
     <rom name="Doom (USA).cue" size="99" crc="213fbf5c" md5="d6f5879d9b6e44f2adfd7d0be30e4066" sha1="bd7275a5f0186648ad32c86566dd57b282eb1e70" />
     <rom name="Doom (USA).bin" size="241903200" crc="c238cd13" md5="58bd8257d9c1a759923195439245e01e" sha1="e46733bb1401671ed76ca64894cd55b2098a57fa" />
   </game>
-  <game name="Crash 'n Burn (USA) (Not for Resale)">
-    <category>Games</category>
-    <description>Crash 'n Burn (USA) (Not for Resale)</description>
-    <rom name="Crash 'n Burn (USA) (Not for Resale).cue" size="102" crc="5a0acc33" md5="fed5c22cccd45b4af56281bdb664c9b8" sha1="f7c7c2c24be7ef14981c046ae3448aeeea72228b" />
-    <rom name="Crash 'n Burn (USA) (Not for Resale).bin" size="722887200" crc="198c0efa" md5="b62ff1e051a5ed2acc76ad647ee37b50" sha1="e59c9673e9d79def5cbe42cc494cac2d5b11eb5f" />
-  </game>
   <game name="FIFA International Soccer (USA)">
     <category>Games</category>
     <description>FIFA International Soccer (USA)</description>
@@ -688,18 +664,6 @@
     <description>Taiketsu Rumiizu! (Japan)</description>
     <rom name="Taiketsu Rumiizu! (Japan).cue" size="91" crc="c19be01d" md5="f893df0349f72e779b28b515d875da3b" sha1="e9c93b5f22558ac1a0290726756c1afe7531715e" />
     <rom name="Taiketsu Rumiizu! (Japan).bin" size="617270640" crc="2edc2874" md5="0fa9c0861593d17ddc5eaf539e2b7f5f" sha1="fb4b81a0db75b2a93e6b78e8c53e0baed7a51947" />
-  </game>
-  <game name="Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan)">
-    <category>Games</category>
-    <description>Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan)</description>
-    <rom name="Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan).cue" size="147" crc="fcb4fe03" md5="983b3193b8c8891eb103c5824538393b" sha1="2f304a826f0009c2e2388170fbf8e89354c19527" />
-    <rom name="Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan).bin" size="555001440" crc="39bc5e6c" md5="955f273408d3d95418962d2591f7b97e" sha1="64b92ec326446b10cb93cc18be358aeb15761f70" />
-  </game>
-  <game name="Chiki Chiki Machine Mou Race 2 - In Space (Japan)">
-    <category>Games</category>
-    <description>Chiki Chiki Machine Mou Race 2 - In Space (Japan)</description>
-    <rom name="Chiki Chiki Machine Mou Race 2 - In Space (Japan).cue" size="115" crc="a726b777" md5="cfbf01a15f9e462407433eb96927d643" sha1="836e63a5731c67aeca7c0c6d1fe45def531d904b" />
-    <rom name="Chiki Chiki Machine Mou Race 2 - In Space (Japan).bin" size="734934144" crc="e8188b01" md5="cae4c204acc9591960df3a2c300e8333" sha1="6bb71ffcb7c70d983ac7ce1324bfd6f532eaeb1b" />
   </game>
   <game name="Oceans Below (Japan)">
     <category>Multimedia</category>
@@ -934,18 +898,6 @@
     <description>Yu Yu Hakusho (Japan)</description>
     <rom name="Yu Yu Hakusho (Japan).cue" size="133" crc="4cfeea99" md5="68751cece702378bef5ba7df3d6ae72d" sha1="b7b82dbf10e1570173ebdd29a14f20f09f782b94" />
     <rom name="Yu Yu Hakusho (Japan).bin" size="566690880" crc="c7509e96" md5="27cd7fc858669444994d41f0bd389141" sha1="754342c0242de2b748599ae4d90de0efae03a3f1" />
-  </game>
-  <game name="Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan)">
-    <category>Games</category>
-    <description>Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan)</description>
-    <rom name="Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan).cue" size="138" crc="b773c2b8" md5="0911975099e340e33bdcfb9c8579d2b6" sha1="bd7fe2d3741c69dc3df1189b51b9c177f7344cc0" />
-    <rom name="Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan).bin" size="386057280" crc="133a36c1" md5="e9169aab7615dff717a9850bc67a2c3f" sha1="bca0c4e7304fb073bd55f4d1d9f267140f24835a" />
-  </game>
-  <game name="Burning Soldier (Japan)">
-    <category>Games</category>
-    <description>Burning Soldier (Japan)</description>
-    <rom name="Burning Soldier (Japan).cue" size="89" crc="f0c8782e" md5="ce2b5a395f4df0efe4b5d12b1644084f" sha1="48931fdfdf8f52fd4b2f3e88a9f84f8261b74cf7" />
-    <rom name="Burning Soldier (Japan).bin" size="603170400" crc="5cf2f83a" md5="f4420a4e676ab7045a20d50b85516818" sha1="666f2e890b4b195a4c8590f37094fc98e02b739f" />
   </game>
   <game name="Fire Ball!! (Japan)">
     <category>Games</category>
@@ -1193,12 +1145,6 @@
     <rom name="Scramble Cobra (Japan).cue" size="88" crc="81087c2e" md5="8dd71f743b0cf87c01692a0bac185c7e" sha1="6e3919fc891710409ac5b3e0d456c158e57b58a9" />
     <rom name="Scramble Cobra (Japan).bin" size="765039744" crc="26615da9" md5="a498f244a2d04462b6953b40646ecfe5" sha1="8ffd05738aed68611e0cb71ad87a7a428bf2cbc0" />
   </game>
-  <game name="Captain Quazar (Japan)">
-    <category>Games</category>
-    <description>Captain Quazar (Japan)</description>
-    <rom name="Captain Quazar (Japan).cue" size="88" crc="0cb16df1" md5="20117abddb657f1d3fcc38ac1ebbda49" sha1="0211b81c5687983ae05b9fc0a97bb4dda463107a" />
-    <rom name="Captain Quazar (Japan).bin" size="776517504" crc="916a537c" md5="f1aaf0f57bc18a2bc22fcb85e5f2966c" sha1="c3951da37d053ab0a2047c2ac4cce0547b6acf45" />
-  </game>
   <game name="Tozasareta Yakata (Japan)">
     <category>Games</category>
     <description>Tozasareta Yakata (Japan)</description>
@@ -1216,12 +1162,6 @@
     <description>Kingdom - The Far Reaches (USA, Europe)</description>
     <rom name="Kingdom - The Far Reaches (USA, Europe).cue" size="128" crc="dcfa5fca" md5="fc6463b08e291c56860fa78ac27528d4" sha1="5064851c8743a81a0db4362aca548bb30c47102d" />
     <rom name="Kingdom - The Far Reaches (USA, Europe).bin" size="775877760" crc="760b7d3c" md5="5ace589136862b21e5f42963fabd3cf8" sha1="97b74dfcc25b4e315d9327cfc518ceec5f522a49" />
-  </game>
-  <game name="Burning Soldier (Europe)">
-    <category>Games</category>
-    <description>Burning Soldier (Europe)</description>
-    <rom name="Burning Soldier (Europe).cue" size="113" crc="9f5068b3" md5="8d709d9fa98a8f21c5a624cdd7a0602b" sha1="2cf49e5fde3ff7c691e9c5774b966a5f855ecee2" />
-    <rom name="Burning Soldier (Europe).bin" size="602817600" crc="faacfc3c" md5="b3e1b411ac8677d3c86cc2afc0c8448f" sha1="530374783e7c90f8052737ab0f81cb8565ea51d9" />
   </game>
   <game name="Shock Wave - Operation JumpGate (USA, Europe)">
     <category>Add-Ons</category>
@@ -1433,12 +1373,6 @@
     <rom name="Mad Dog McCree (USA).cue" size="109" crc="92df47b0" md5="13d546490da6cfdd3426a2fb79433ebd" sha1="f5724d4b4bab377fae91beec759b7f9872eb3a8b" />
     <rom name="Mad Dog McCree (USA).bin" size="422188704" crc="affbf1e2" md5="37d3745e9c379cf30cc372066072ec0b" sha1="80775a618808a1b6f1a8239ef5f7964507a85ee9" />
   </game>
-  <game name="Crime Patrol (USA)">
-    <category>Games</category>
-    <description>Crime Patrol (USA)</description>
-    <rom name="Crime Patrol (USA).cue" size="107" crc="94bd6b76" md5="8b8eddd10e32fc38c2d0d02de39d13cf" sha1="d3d159b6a5ff1a0f0f8bb4b3a77ee812407717e1" />
-    <rom name="Crime Patrol (USA).bin" size="657360480" crc="f2463ea7" md5="b07e21611b9cc65cb36a251db8263851" sha1="dfd7c7bb23c65e466e76ccf1902a4581f5f16e22" />
-  </game>
   <game name="Space Pirates (USA)">
     <category>Games</category>
     <description>Space Pirates (USA)</description>
@@ -1468,12 +1402,6 @@
     <description>Sample This! (USA)</description>
     <rom name="Sample This! (USA).cue" size="107" crc="4fe900fb" md5="1a44b5ac04f747493429ed2f488bf42f" sha1="8f6515aceadbc4be91dd4e71f0acbeec4c179229" />
     <rom name="Sample This! (USA).bin" size="650986560" crc="434ce384" md5="3707ef593cfa692be61fc81bbd153606" sha1="4b671a6827cc038e1890ab130952c74f44b71403" />
-  </game>
-  <game name="Burning Soldier (USA)">
-    <category>Games</category>
-    <description>Burning Soldier (USA)</description>
-    <rom name="Burning Soldier (USA).cue" size="110" crc="c8fe9535" md5="99351f0967028921bfcec7f67434d95f" sha1="1c1f14975ac0153f91f2069a931352a7a974974c" />
-    <rom name="Burning Soldier (USA).bin" size="603170400" crc="3e2a4686" md5="fabd44f90ed65be8f89022b0b856e750" sha1="92b6a8529f3daa5a9b6ef421017000558c88ef3f" />
   </game>
   <game name="Flying Nightmares (USA)">
     <category>Games</category>
@@ -1522,12 +1450,6 @@
     <description>Iron Angel of the Apocalypse - Tetsujin (USA)</description>
     <rom name="Iron Angel of the Apocalypse - Tetsujin (USA).cue" size="134" crc="8b8256da" md5="1b36e07e3bd83ec5ab6c65a60dc67271" sha1="a70aa4f3271e14adaa84ce01e45e5818b0281eba" />
     <rom name="Iron Angel of the Apocalypse - Tetsujin (USA).bin" size="434226240" crc="b9269ec8" md5="40dd5dd8bc8fe0da355f3c96fbed817c" sha1="f4ad32131919b580e7d5f53fa7363d353d2792e3" />
-  </game>
-  <game name="Cannon Fodder (USA)">
-    <category>Games</category>
-    <description>Cannon Fodder (USA)</description>
-    <rom name="Cannon Fodder (USA).cue" size="108" crc="a0ee3128" md5="bd57b28ab68f6a09a8ff27088074866d" sha1="774ad314be69002e98199b4f1ad1f8426e3e1295" />
-    <rom name="Cannon Fodder (USA).bin" size="337888320" crc="8a92426e" md5="c236f4464795636d55a40a17f6752aa4" sha1="a566a1183f037ea22e54eb5ca298f6250b4233b4" />
   </game>
   <game name="Shanghai - Triple-Threat (USA)">
     <category>Games</category>
@@ -1636,12 +1558,6 @@
     <description>Twisted - The Game Show (USA) (Alt)</description>
     <rom name="Twisted - The Game Show (USA) (Alt).cue" size="124" crc="1e6e5da4" md5="d62ea635340f717a7441de0b1bfd124e" sha1="3b13804cc7ddfa4ac04cf1f2c169541653214f5d" />
     <rom name="Twisted - The Game Show (USA) (Alt).bin" size="746976384" crc="2cc6e83b" md5="01d0d86a66797a5a48ff227b6b4b0391" sha1="f9ccedc3d4fda12e38794d8eb6c7f5d1d47d5028" />
-  </game>
-  <game name="Cowboy Casino (USA)">
-    <category>Games</category>
-    <description>Cowboy Casino (USA)</description>
-    <rom name="Cowboy Casino (USA).cue" size="108" crc="b1407ef3" md5="fcac417ce0932124d782d1908b93b13d" sha1="06e5e23262094db0f75dec6f84db6bb39ab551fa" />
-    <rom name="Cowboy Casino (USA).bin" size="313455744" crc="1d48b747" md5="a43f3d41da82b3e19e033946610ff99f" sha1="667a8a67ae4ae5415641cbe85fe554e63fcbcd03" />
   </game>
   <game name="Zhadnost - The People's Party (USA)">
     <category>Games</category>
@@ -1865,12 +1781,6 @@
     <rom name="Perfect World - Combat in a Digital World (Japan) (Demo).cue" size="145" crc="d57ddece" md5="a2594dc7456d2c2d756345689f8fe277" sha1="9489ee5024b133ad082a4c74c1316d961b71d54f" />
     <rom name="Perfect World - Combat in a Digital World (Japan) (Demo).bin" size="745772160" crc="907bfef9" md5="87ae9dcfd3892866c3cbb08c62cf001c" sha1="157a0f747a3b81ebe67fc8c21a8b8639011b470c" />
   </game>
-  <game name="Cannon Fodder (Europe)">
-    <category>Games</category>
-    <description>Cannon Fodder (Europe)</description>
-    <rom name="Cannon Fodder (Europe).cue" size="111" crc="dbb55007" md5="f44b97ccd2e998b7173e81e92c05445c" sha1="e1fdb321b62b7ba87613924137e1b61ec9c6aa92" />
-    <rom name="Cannon Fodder (Europe).bin" size="337888320" crc="ed6b7433" md5="af2d5626f35565b1ceedb4e825891706" sha1="b8d4bc36bc7e4ef5e0b176d16dd5face1f1a03c1" />
-  </game>
   <game name="Escape from Monster Manor (Europe)">
     <category>Games</category>
     <description>Escape from Monster Manor (Europe)</description>
@@ -1972,12 +1882,6 @@
     <description>Johnny Bazookatone (USA)</description>
     <rom name="Johnny Bazookatone (USA).cue" size="113" crc="2e05edb4" md5="41186fc246ab1f9295015f157f85c4aa" sha1="8ad331265fcb61df38b1995c1973b9e7ad91dbae" />
     <rom name="Johnny Bazookatone (USA).bin" size="494089344" crc="36eafc34" md5="9af61fca4bb849eb433372e9b8db076a" sha1="135ee990e786f3729e491f6ab139e658c6697398" />
-  </game>
-  <game name="Casper (USA)">
-    <category>Games</category>
-    <description>Casper (USA)</description>
-    <rom name="Casper (USA).cue" size="101" crc="f93f086e" md5="0ed50ec1dcbb72f7ffd2aced02e1c33e" sha1="252fe20d8b2d050b676583178f5eee525d616996" />
-    <rom name="Casper (USA).bin" size="241202304" crc="44e35ce2" md5="1e10eb74db0bc8628276ff258e0ee444" sha1="43dd88d2695f222b23b435b008df8ce166861fe8" />
   </game>
   <game name="DinoPark Tycoon (USA)">
     <category>Games</category>
@@ -2087,12 +1991,6 @@
     <rom name="Monoshiri Jiyuugaku - Ogura Hyakunin Isshu-hen (Japan).cue" size="120" crc="b69abe11" md5="dd7d50661e48ce9cb40f84888d01abcd" sha1="a9457dbae009e841fa3ed1accc23259e367fb527" />
     <rom name="Monoshiri Jiyuugaku - Ogura Hyakunin Isshu-hen (Japan).bin" size="241202304" crc="2ec6a816" md5="17ad1bbf6ecc52668c2be5f034acadb7" sha1="047d984fbf5dfc13b632d54ab4df4182e1576884" />
   </game>
-  <game name="Burning Soldier (Canada)">
-    <category>Games</category>
-    <description>Burning Soldier (Canada)</description>
-    <rom name="Burning Soldier (Canada).cue" size="113" crc="2ce591b1" md5="3030832bbbf650343374d0e44bcd9b38" sha1="6285681fda04aa8c4bfd0fd6bf318e810474cb71" />
-    <rom name="Burning Soldier (Canada).bin" size="602817600" crc="1695d07a" md5="01acb0d060dd85043f05d35f41fcf120" sha1="38bf99415ceeedf8a63dd7bd24dde75bbf34931d" />
-  </game>
   <game name="Emit Vol. 3 - Watashi ni Sayonara o (Japan)">
     <category>Educational</category>
     <description>Emit Vol. 3 - Watashi ni Sayonara o (Japan)</description>
@@ -2201,18 +2099,6 @@
     <rom name="Wolfenstein 3D (Europe).cue" size="112" crc="5df0ef1f" md5="bfcece5e786550499e841d1b18edbbc3" sha1="9daaf8499d3e05d0d8e48de68dc2aabdb9054419" />
     <rom name="Wolfenstein 3D (Europe).bin" size="133170240" crc="99dfbe2e" md5="653a41171331beb9493814f3c59f5390" sha1="3089ecb3a1fca6783aa7b839398fa49347879525" />
   </game>
-  <game name="Club 3DO - Station Invasion (USA)">
-    <category>Educational</category>
-    <description>Club 3DO - Station Invasion (USA)</description>
-    <rom name="Club 3DO - Station Invasion (USA).cue" size="122" crc="ab5aa9ce" md5="37d35f97e2798b7ca373928a4bf9e135" sha1="d9f704f5c959d306f927ceb7381ee662023f14f1" />
-    <rom name="Club 3DO - Station Invasion (USA).bin" size="773817408" crc="b1d471d6" md5="9eddbe4e194252c1e12e95b7748e610d" sha1="17ae47e705601bc1243c002dea56b0227e56a2f8" />
-  </game>
-  <game name="Cyberia (USA)">
-    <category>Games</category>
-    <description>Cyberia (USA)</description>
-    <rom name="Cyberia (USA).cue" size="102" crc="e063bc28" md5="5ecf8d034ceb171bcb56731bd27981f3" sha1="2f48858f91493b0903f78131b922e4d4e7ab957c" />
-    <rom name="Cyberia (USA).bin" size="759371424" crc="79bbe416" md5="9d87759b59963b16302ba3e9d8263abf" sha1="5f90b870870510845a5234a881e6903b99b3847b" />
-  </game>
   <game name="Twisted - The Game Show (USA)">
     <category>Games</category>
     <description>Twisted - The Game Show (USA)</description>
@@ -2230,18 +2116,6 @@
     <description>Star Control II (USA)</description>
     <rom name="Star Control II (USA).cue" size="110" crc="f24b58cd" md5="5f21cae112d0fec84773ea5193369500" sha1="467a6763103a0720df89f7f76c75273a49e07ec1" />
     <rom name="Star Control II (USA).bin" size="771060864" crc="bfa0c923" md5="6efb7962cc131296429fc3512fcec724" sha1="47cf22aff089adc72534b853f8337dc294f0b74c" />
-  </game>
-  <game name="Creature Shock (USA) (Disc 1)">
-    <category>Games</category>
-    <description>Creature Shock (USA) (Disc 1)</description>
-    <rom name="Creature Shock (USA) (Disc 1).cue" size="118" crc="b674d0db" md5="0e3deeb8514a9f307ea3e60fbe3ecece" sha1="4c41f2796e8cc36374385d08fecb64011ef9c191" />
-    <rom name="Creature Shock (USA) (Disc 1).bin" size="771060864" crc="cec0eacd" md5="ebfef6259b38b3d8455a7a0cae38b687" sha1="8e8c376a2613778ae8db0b8e5d548c84d0f02938" />
-  </game>
-  <game name="Creature Shock (USA) (Disc 2)">
-    <category>Games</category>
-    <description>Creature Shock (USA) (Disc 2)</description>
-    <rom name="Creature Shock (USA) (Disc 2).cue" size="118" crc="b729f60a" md5="6f3ff9f9c4b428b744cfcc08768a7e34" sha1="6716ecc5ba9629c138fd56638b12b10d7e65e895" />
-    <rom name="Creature Shock (USA) (Disc 2).bin" size="771060864" crc="79a4bc57" md5="08446d1e3ba49264e553cde8854e8983" sha1="7975be4a1cda3fe52534557a3193c8704fe4c83b" />
   </game>
   <game name="DeathKeep (USA)">
     <category>Games</category>
@@ -2344,12 +2218,6 @@
     <description>World Cup Golf - Hyatt Dorado Beach (USA)</description>
     <rom name="World Cup Golf - Hyatt Dorado Beach (USA).cue" size="130" crc="60e0c938" md5="e2610d1fe23ad30592617b7d15436ab4" sha1="ed57bedbcf0ba5c5a42df5f68733604aefffb15a" />
     <rom name="World Cup Golf - Hyatt Dorado Beach (USA).bin" size="771060864" crc="a596bf93" md5="47ebb4188396ec06254881f413a9fea7" sha1="88d8ff6aa790bd19e68867557665f8e2bee9b2b7" />
-  </game>
-  <game name="Captain Quazar &amp; BattleSport (Europe) (Demo)">
-    <category>Demos</category>
-    <description>Captain Quazar &amp; BattleSport (Europe) (Demo)</description>
-    <rom name="Captain Quazar &amp; BattleSport (Europe) (Demo).cue" size="133" crc="fc5f1dc4" md5="103562114ff8f36b62eca4f1a1ad56ef" sha1="2ad8e344f73a5f880f17a5da8eae5a2766afc015" />
-    <rom name="Captain Quazar &amp; BattleSport (Europe) (Demo).bin" size="97396320" crc="6b226048" md5="3f94e8b9f3b836a0e38b735779fbf2ee" sha1="ab03a8994f60a4ee0cfa087b4f9b27700f30c947" />
   </game>
   <game name="Phoenix 3 (Europe) (Demo)">
     <category>Demos</category>

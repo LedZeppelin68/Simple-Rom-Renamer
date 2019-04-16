@@ -115,4 +115,92 @@
     <rom name="BrainDead 13 (USA) (Disc 2).bin" size="506832480" crc="747f1ca8" md5="204d700defbc5f65cc078ac89d1a6794" sha1="981dbcc139e7cc275c213cd027797fb9a15fcad4" />
     <rom name="BrainDead 13 (USA) (Disc 2).cue" size="116" crc="7916c8a4" md5="313226f3dc6e0a0e7cae97714dc00823" sha1="6404c805029c587d24c7593c8f850822866ac01f" />
   </game>
+  <game name="Burning Soldier (Canada)">
+    <rom name="Burning Soldier (Canada).bin" size="602817600" crc="1695d07a" md5="01acb0d060dd85043f05d35f41fcf120" sha1="38bf99415ceeedf8a63dd7bd24dde75bbf34931d" />
+    <rom name="Burning Soldier (Canada).cue" size="113" crc="2ce591b1" md5="3030832bbbf650343374d0e44bcd9b38" sha1="6285681fda04aa8c4bfd0fd6bf318e810474cb71" />
+  </game>
+  <game name="Burning Soldier (Europe)">
+    <rom name="Burning Soldier (Europe).bin" size="602817600" crc="faacfc3c" md5="b3e1b411ac8677d3c86cc2afc0c8448f" sha1="530374783e7c90f8052737ab0f81cb8565ea51d9" />
+    <rom name="Burning Soldier (Europe).cue" size="113" crc="9f5068b3" md5="8d709d9fa98a8f21c5a624cdd7a0602b" sha1="2cf49e5fde3ff7c691e9c5774b966a5f855ecee2" />
+  </game>
+  <game name="Burning Soldier (Japan)">
+    <rom name="Burning Soldier (Japan).bin" size="603170400" crc="5cf2f83a" md5="f4420a4e676ab7045a20d50b85516818" sha1="666f2e890b4b195a4c8590f37094fc98e02b739f" />
+    <rom name="Burning Soldier (Japan).cue" size="89" crc="f0c8782e" md5="ce2b5a395f4df0efe4b5d12b1644084f" sha1="48931fdfdf8f52fd4b2f3e88a9f84f8261b74cf7" />
+  </game>
+  <game name="Burning Soldier (USA)">
+    <rom name="Burning Soldier (USA).bin" size="603170400" crc="3e2a4686" md5="fabd44f90ed65be8f89022b0b856e750" sha1="92b6a8529f3daa5a9b6ef421017000558c88ef3f" />
+    <rom name="Burning Soldier (USA).cue" size="110" crc="c8fe9535" md5="99351f0967028921bfcec7f67434d95f" sha1="1c1f14975ac0153f91f2069a931352a7a974974c" />
+  </game>
+  <game name="Cannon Fodder (Europe)">
+    <rom name="Cannon Fodder (Europe).bin" size="337888320" crc="ed6b7433" md5="af2d5626f35565b1ceedb4e825891706" sha1="b8d4bc36bc7e4ef5e0b176d16dd5face1f1a03c1" />
+    <rom name="Cannon Fodder (Europe).cue" size="111" crc="dbb55007" md5="f44b97ccd2e998b7173e81e92c05445c" sha1="e1fdb321b62b7ba87613924137e1b61ec9c6aa92" />
+  </game>
+  <game name="Cannon Fodder (USA)">
+    <rom name="Cannon Fodder (USA).bin" size="337888320" crc="8a92426e" md5="c236f4464795636d55a40a17f6752aa4" sha1="a566a1183f037ea22e54eb5ca298f6250b4233b4" />
+    <rom name="Cannon Fodder (USA).cue" size="108" crc="a0ee3128" md5="bd57b28ab68f6a09a8ff27088074866d" sha1="774ad314be69002e98199b4f1ad1f8426e3e1295" />
+  </game>
+  <game name="Captain Quazar &amp; BattleSport (Europe) (Demo)">
+    <rom name="Captain Quazar &amp; BattleSport (Europe) (Demo).bin" size="97396320" crc="6b226048" md5="3f94e8b9f3b836a0e38b735779fbf2ee" sha1="ab03a8994f60a4ee0cfa087b4f9b27700f30c947" />
+    <rom name="Captain Quazar &amp; BattleSport (Europe) (Demo).cue" size="133" crc="fc5f1dc4" md5="103562114ff8f36b62eca4f1a1ad56ef" sha1="2ad8e344f73a5f880f17a5da8eae5a2766afc015" />
+  </game>
+  <game name="Captain Quazar (Japan)">
+    <rom name="Captain Quazar (Japan).bin" size="776517504" crc="916a537c" md5="f1aaf0f57bc18a2bc22fcb85e5f2966c" sha1="c3951da37d053ab0a2047c2ac4cce0547b6acf45" />
+    <rom name="Captain Quazar (Japan).cue" size="88" crc="0cb16df1" md5="20117abddb657f1d3fcc38ac1ebbda49" sha1="0211b81c5687983ae05b9fc0a97bb4dda463107a" />
+  </game>
+  <game name="Captain Quazar (USA)">
+    <rom name="Captain Quazar (USA).bin" size="776870304" crc="6d632812" md5="1c305cad878ab049d632f734bab833f3" sha1="9c2a3c94a205fa0e24c1a5446bac0e7048ff7aff" />
+    <rom name="Captain Quazar (USA).cue" size="109" crc="32bbf8c2" md5="73cdeb4766e244152cf6de79f211a43f" sha1="164aab8e370b814494f9ad7f3232b88130830500" />
+  </game>
+  <game name="Casper (USA)">
+    <rom name="Casper (USA).bin" size="241202304" crc="44e35ce2" md5="1e10eb74db0bc8628276ff258e0ee444" sha1="43dd88d2695f222b23b435b008df8ce166861fe8" />
+    <rom name="Casper (USA).cue" size="101" crc="f93f086e" md5="0ed50ec1dcbb72f7ffd2aced02e1c33e" sha1="252fe20d8b2d050b676583178f5eee525d616996" />
+  </game>
+  <game name="Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan)">
+    <rom name="Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan).bin" size="555001440" crc="39bc5e6c" md5="955f273408d3d95418962d2591f7b97e" sha1="64b92ec326446b10cb93cc18be358aeb15761f70" />
+    <rom name="Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan).cue" size="147" crc="fcb4fe03" md5="983b3193b8c8891eb103c5824538393b" sha1="2f304a826f0009c2e2388170fbf8e89354c19527" />
+  </game>
+  <game name="Chiki Chiki Machine Mou Race 2 - In Space (Japan)">
+    <rom name="Chiki Chiki Machine Mou Race 2 - In Space (Japan).bin" size="734934144" crc="e8188b01" md5="cae4c204acc9591960df3a2c300e8333" sha1="6bb71ffcb7c70d983ac7ce1324bfd6f532eaeb1b" />
+    <rom name="Chiki Chiki Machine Mou Race 2 - In Space (Japan).cue" size="115" crc="a726b777" md5="cfbf01a15f9e462407433eb96927d643" sha1="836e63a5731c67aeca7c0c6d1fe45def531d904b" />
+  </game>
+  <game name="Club 3DO - Station Invasion (USA)">
+    <rom name="Club 3DO - Station Invasion (USA).bin" size="773817408" crc="b1d471d6" md5="9eddbe4e194252c1e12e95b7748e610d" sha1="17ae47e705601bc1243c002dea56b0227e56a2f8" />
+    <rom name="Club 3DO - Station Invasion (USA).cue" size="122" crc="ab5aa9ce" md5="37d35f97e2798b7ca373928a4bf9e135" sha1="d9f704f5c959d306f927ceb7381ee662023f14f1" />
+  </game>
+  <game name="Corpse Killer (USA)">
+    <rom name="Corpse Killer (USA).bin" size="753350304" crc="e535d9d5" md5="cd0f44e19e28930a8144c6b514f24dc6" sha1="0d544ca6aa60e6d8f8135fe0fc2204f6ad03d7be" />
+    <rom name="Corpse Killer (USA).cue" size="108" crc="f97a9cce" md5="68da62809562a7a8822bce59b12045f4" sha1="7349663974ac03afb0df30981862a14482a3d1be" />
+  </game>
+  <game name="Cowboy Casino (USA)">
+    <rom name="Cowboy Casino (USA).bin" size="313455744" crc="1d48b747" md5="a43f3d41da82b3e19e033946610ff99f" sha1="667a8a67ae4ae5415641cbe85fe554e63fcbcd03" />
+    <rom name="Cowboy Casino (USA).cue" size="108" crc="b1407ef3" md5="fcac417ce0932124d782d1908b93b13d" sha1="06e5e23262094db0f75dec6f84db6bb39ab551fa" />
+  </game>
+  <game name="Crash 'n Burn (Japan)">
+    <rom name="Crash 'n Burn (Japan).bin" size="723240000" crc="331a3313" md5="088b32295489444bdfec469e4f074a71" sha1="8a835b66c270efb66f6eddc3c50acb200b24e795" />
+    <rom name="Crash 'n Burn (Japan).cue" size="110" crc="4d63fd98" md5="a69e573e5a6149ec67c609b5c342e9e9" sha1="c99b0c015b51a713d564599dcb0df01c79a7f6cc" />
+  </game>
+  <game name="Crash 'n Burn (USA) (Not for Resale)">
+    <rom name="Crash 'n Burn (USA) (Not for Resale).bin" size="722887200" crc="198c0efa" md5="b62ff1e051a5ed2acc76ad647ee37b50" sha1="e59c9673e9d79def5cbe42cc494cac2d5b11eb5f" />
+    <rom name="Crash 'n Burn (USA) (Not for Resale).cue" size="102" crc="5a0acc33" md5="fed5c22cccd45b4af56281bdb664c9b8" sha1="f7c7c2c24be7ef14981c046ae3448aeeea72228b" />
+  </game>
+  <game name="Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan)">
+    <rom name="Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan).bin" size="386057280" crc="133a36c1" md5="e9169aab7615dff717a9850bc67a2c3f" sha1="bca0c4e7304fb073bd55f4d1d9f267140f24835a" />
+    <rom name="Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan).cue" size="138" crc="b773c2b8" md5="0911975099e340e33bdcfb9c8579d2b6" sha1="bd7fe2d3741c69dc3df1189b51b9c177f7344cc0" />
+  </game>
+  <game name="Creature Shock (USA) (Disc 1)">
+    <rom name="Creature Shock (USA) (Disc 1).bin" size="771060864" crc="cec0eacd" md5="ebfef6259b38b3d8455a7a0cae38b687" sha1="8e8c376a2613778ae8db0b8e5d548c84d0f02938" />
+    <rom name="Creature Shock (USA) (Disc 1).cue" size="118" crc="b674d0db" md5="0e3deeb8514a9f307ea3e60fbe3ecece" sha1="4c41f2796e8cc36374385d08fecb64011ef9c191" />
+  </game>
+  <game name="Creature Shock (USA) (Disc 2)">
+    <rom name="Creature Shock (USA) (Disc 2).bin" size="771060864" crc="79a4bc57" md5="08446d1e3ba49264e553cde8854e8983" sha1="7975be4a1cda3fe52534557a3193c8704fe4c83b" />
+    <rom name="Creature Shock (USA) (Disc 2).cue" size="118" crc="b729f60a" md5="6f3ff9f9c4b428b744cfcc08768a7e34" sha1="6716ecc5ba9629c138fd56638b12b10d7e65e895" />
+  </game>
+  <game name="Crime Patrol (USA)">
+    <rom name="Crime Patrol (USA).bin" size="657360480" crc="f2463ea7" md5="b07e21611b9cc65cb36a251db8263851" sha1="dfd7c7bb23c65e466e76ccf1902a4581f5f16e22" />
+    <rom name="Crime Patrol (USA).cue" size="107" crc="94bd6b76" md5="8b8eddd10e32fc38c2d0d02de39d13cf" sha1="d3d159b6a5ff1a0f0f8bb4b3a77ee812407717e1" />
+  </game>
+  <game name="Cyberia (USA)">
+    <rom name="Cyberia (USA).bin" size="759371424" crc="79bbe416" md5="9d87759b59963b16302ba3e9d8263abf" sha1="5f90b870870510845a5234a881e6903b99b3847b" />
+    <rom name="Cyberia (USA).cue" size="102" crc="e063bc28" md5="5ecf8d034ceb171bcb56731bd27981f3" sha1="2f48858f91493b0903f78131b922e4d4e7ab957c" />
+  </game>
 </datafile>
